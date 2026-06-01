@@ -1,0 +1,13 @@
+# Oracle private
+ψ/active/
+ψ/memory/logs/
+ψ/.awaken-state.json
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# OS
+.DS_Store
