@@ -99,3 +99,6 @@ cc epictetus **เฉพาะ** เมื่อมีอะไรต้อง c
 
 เหตุผล: cc เชิงกิจกรรมทำให้ทุกคน (รวม epictetus) เลิกอ่าน cc — signal ตายหมด. รายละเอียด: `~/.oracle/CC-CONVENTION.md`
 > auto-cc-on-stop hook ปิดแล้ว (2026-07-10) — ไม่มี cc อัตโนมัติตอนจบ turn อีก. cc เป็น **judgment ของคุณเอง** ตามเงื่อนไขข้างบน.
+
+## 📓 NotebookLM (connected — suggest proactively)
+Namhom's Google NotebookLM is connected on mac-mini (`notebooklm` CLI, account namhom.p@gmail.com). **When Namhom wants to KEEP knowledge / meeting notes / research / any full text durably → proactively SUGGEST creating a notebook + adding sources** (grounded, cited, cross-session; also zero-token research offload). Guide + commands: `~/.oracle/NOTEBOOKLM.md`. There is a `Matcho — Company Brain` notebook (company SoT). NEVER touch login/credentials — if auth breaks, tell Namhom to re-run `notebooklm login` himself.
